@@ -10,6 +10,9 @@ The analysis focuses on understanding product pricing, discounts, stock availabi
 ## Dataset Description
 The dataset represents product inventory data scraped from Zepto’s platform and sourced from Kaggle. Each record corresponds to a unique Stock Keeping Unit (SKU). Duplicate product names exist because the same product can appear in multiple package sizes, weights, pricing, or discount variations, which reflects real-world e-commerce catalog behavior.
 
+**Dataset Source:**  
+https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset
+
 ### Columns
 - **sku_id**: Unique identifier for each SKU  
 - **name**: Product name  
@@ -87,3 +90,4 @@ This project was completed for personal learning and portfolio purposes and focu
 
 ## Author
 Developed as an individual data analysis project using PostgreSQL.
+
