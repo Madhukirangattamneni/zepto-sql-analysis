@@ -70,8 +70,10 @@ SQL queries were written to answer business-focused questions, including:
 ---
 
 ## Repository Structure
-
-The `zepto_queries.sql` file contains all SQL statements used for table creation, data exploration, data cleaning, and analysis.
+zepto-sql-analysis/
+│
+├── README.md
+└── zepto_queries.sql
 
 ---
 
@@ -90,4 +92,5 @@ This project was completed for personal learning and portfolio purposes and focu
 
 ## Author
 Developed as an individual data analysis project using PostgreSQL.
+
 
